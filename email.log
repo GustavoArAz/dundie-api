@@ -1,0 +1,11 @@
+--- START EMAIL pam@dm.com ---
+From: Dundie <no-reply@dm.com>
+To: pam@dm.com
+Subject: Password reset for Dundie
+
+Please use the following link to reset your password:
+https://dm.com/reset_password?pwd_reset_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwYW0tYmVzbHkiLCJleHAiOjE3NTYyMTEyMjIsInNjb3BlIjoicHdkX3Jlc2V0In0.AoXSxwgp7Oo9CJHVCD3zSLPVSuqQ_ASuTjxHQrXHQ3Y
+
+This link will expire in 10 minutes.
+
+--- END OF EMAIL ---
