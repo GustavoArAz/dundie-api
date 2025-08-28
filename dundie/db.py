@@ -1,5 +1,5 @@
 """Database connection"""
-from sqlmodel import Session, create_engine
+from sqlmodel import Session, create_engine, SQLModel
 from fastapi import Depends
 
 from .config import settings
